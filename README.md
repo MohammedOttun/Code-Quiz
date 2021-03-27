@@ -5,7 +5,7 @@
 **Code Quiz** is a timed quiz that test your knowledge on coding fundamentals and tracks stores. This allows you guage your progress in comparison to your peers.
 
 ## Features
-* Question and multiple choice answer format.
+* Multiple choice question and answer format.
 * Sound notifications for wrong or right answer choices.
 * Timer as you progress through the questions.
 * x seconds decreased timer with each wrong answer.
