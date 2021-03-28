@@ -13,7 +13,7 @@
 ## Demo
 The following animation demonstrates the application functionality:
 <!-- placeholder gif to be updated -->
-![Demo goes here](./Assets/04-web-apis-homework-demo.gif) 
+![Demo goes here](./assets/images/04-web-apis-homework-demo.gif) 
 
 ### Deployment
 <!-- todo: insert deployment link -->
