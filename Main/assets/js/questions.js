@@ -1,6 +1,6 @@
 var questions = [
     {
-        question: "Why so JavaScript and Java have similar name?",
+        question: "Why do JavaScript and Java have similar name?",
         choices: ["JavaScript is a stripped-down version of Java", "JavaScript's syntax is loosely based on Java's", "They both originated on the island of Java", "None of the above"],
         answer: "JavaScript's syntax is loosely based on Java's"
     },
